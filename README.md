@@ -1,6 +1,6 @@
 # NLP_Project1_SMS Spam Collection
-SMS Spam Collection by using NLTK
-Using NLP Word2vec And AvgWord2vec
+SMS Spam Collection by using NLTK..
+Using NLP Word2vec And AvgWord2vec..
 SMS Spam Collection v.1
 -------------------------
 
